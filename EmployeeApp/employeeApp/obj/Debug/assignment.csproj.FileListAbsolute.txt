@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\comm-100\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\user\Desktop\comm-100\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\user\Desktop\comm-100\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\user\Desktop\comm-100\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\comm-100\assignment\assignment\obj\Debug\assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\comm-100\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\comm-100\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\user\Desktop\comm-100\assignment\assignment\obj\Debug\assignment.pdb
