@@ -1,4 +1,4 @@
-# Employee-c#
+# Employee-C#
 This project is for a company.
 this app work as following.
 
